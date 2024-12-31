@@ -1,0 +1,1 @@
+execute if dimension minecraft:overworld at @s run advancement grant @a[distance=0..12,advancements={alakazam:nether_reactor=false}] only alakazam:nether_reactor
