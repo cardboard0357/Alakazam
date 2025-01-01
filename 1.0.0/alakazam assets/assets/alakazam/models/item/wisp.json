@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "wisp",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "alakazam:item/wisp",
+		"particle": "alakazam:item/wisp"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [4, 0, 8, 4], "texture": "#0"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#0"},
+				"up": {"uv": [4, 12, 0, 8], "texture": "#0"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 5.75, 0]
+		},
+		"gui": {
+			"rotation": [180, 0, 180]
+		},
+		"head": {
+			"translation": [0, -45.5, 0],
+			"scale": [1.71289, 1.67578, 1.65625]
+		},
+		"fixed": {
+			"translation": [0, 3.75, 0]
+		}
+	}
+}

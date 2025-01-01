@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "creaking_heart_collect": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:ender_eye"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "alakazam:ender_quarry"
+    ]
+  }
+}
