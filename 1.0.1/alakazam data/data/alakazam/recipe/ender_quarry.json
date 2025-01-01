@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "redstone",
+    "pattern": [
+      "CCC",
+      "CEC",
+      "OOO"
+    ],
+    "key": {
+      "O": "minecraft:obsidian",
+      "C": [
+        "minecraft:copper_ingot"
+      ],
+      "E": [
+        "minecraft:ender_eye"
+      ]
+    },
+    "result": {
+      "id": "minecraft:item_frame",
+      "components": {
+        "minecraft:item_model": "alakazam:ender_quarry",
+        "minecraft:item_name": "{\"italic\":false,\"text\":\"Ender Quarry\"}",
+        "minecraft:entity_data": "{id:\"minecraft:item_frame\",Fixed:1b,Invisible:1b,Silent:1b,Tags:[\"alakazam.custom_block\",\"alakazam.ender_quarry\"],Facing:1b}"
+      },
+      "count": 1
+    }
+  }

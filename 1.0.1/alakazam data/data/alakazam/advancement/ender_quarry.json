@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "id": "item_frame",
+            "components": {
+                "item_model": "alakazam:ender_quarry"
+            }
+        },
+        "title": "AutoClicker",
+        "description": "Craft a Ender Quarry"
+
+    },
+    "criteria": {
+        "enderquarryget" : {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "item_frame",
+                        "components": {
+                            "item_model": "alakazam:ender_quarry"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "alakazam:root"
+}

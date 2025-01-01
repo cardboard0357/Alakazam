@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "MMM",
+      "ACA",
+      "MMM"
+    ],
+    "key": {
+      "M": "minecraft:moss_block",
+      "A": [
+        "minecraft:amethyst_block"
+      ],
+      "C": [
+        "minecraft:creaking_heart"
+      ]
+    },
+    "result": {
+      "id": "minecraft:item_frame",
+      "components": {
+        "minecraft:item_model": "alakazam:biome_heart",
+        "minecraft:item_name": "{\"italic\":false,\"text\":\"Biome Heart\"}",
+        "minecraft:entity_data": "{id:\"minecraft:item_frame\",Fixed:1b,Invisible:1b,Silent:1b,Tags:[\"alakazam.custom_block\",\"alakazam.biome_heart\"],Facing:1b}"
+      },
+      "count": 1
+    }
+  }

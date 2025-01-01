@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "creaking_heart_collect": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:creaking_heart"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "alakazam:biome_heart"
+    ]
+  }
+}

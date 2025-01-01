@@ -1,0 +1,15 @@
+{
+    "display": {
+        "title": "Alakazam",
+        "description": "Magic Time",
+        "icon": {
+            "id": "lapis_lazuli"
+        },
+        "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+    },
+    "criteria": {
+        "alakazamtick": {
+            "trigger" :"minecraft:tick"
+        }
+    }
+}
