@@ -4,3 +4,5 @@ i hope you enjoy :)
 
 
 Youtube showcase: https://www.youtube.com/watch?v=25H__sgKDYY
+
+warning: the biome heart may be destructive in some situations
