@@ -1,1 +1,0 @@
-execute as @a run function alakazam:technical/as_block_distance
