@@ -1,4 +1,4 @@
-Alakazam is "magic" datapack that currently adds 2 new blocks these include the "Biome heart", and "Ender quarry" the Biome heart allowing the changing of biomes based on the block below it, and the ender quarry is powered by throwing a ender pearl on top
+Alakazam is "magic" datapack that add magical thing such as spell books and a couple new blocks and items
 
 i hope you enjoy :)
 
